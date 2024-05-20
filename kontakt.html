@@ -11,14 +11,13 @@
             <li><a href="koncerti.html">Koncerti</a></li>
             <li style="float:right"><a class="active" href="kontakt.html">Kontakt</a></li>
         </ul>
-        <form>
-          <h2>Ime</h2>
-          <input type="text" name="ime" size="20" maxlength="18"></input>
-          <h2>Prezime</h2>
-          <input type="text" name="prezime" size="20" maxlength="18"></input>
-          <h2>Poruka</h2>
-          <textarea type="text" name="komentar" rows="10" cols="100">tekst</textarea>
-          <br></br>
-        </form>
+        <form action="/action_page.php">
+            <label for="ime">Ime:</label><br>
+            <input type="text" id="ime" name="ime"><br>
+            <label for="prezime">Prezime:</label><br>
+            <input type="text" id="prezime" name="prezime"><br><br>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+          </form>
     </body>
 </html>
