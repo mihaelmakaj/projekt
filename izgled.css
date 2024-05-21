@@ -34,11 +34,12 @@ ul
   {
     background-image: url("ts.jpg");
     background-repeat: no-repeat;
+    size: 100%;
   }
   h1
   {
     font-style: italic;
     font-size: 100px;
     text-align: center;
-
+    padding: 100px;
   }
