@@ -35,10 +35,10 @@ ul
     background-image: url("ts.jpg");
     background-repeat: no-repeat;
   }
-  .tekst
+  h1
   {
     font-style: italic;
     font-size: 100px;
     text-align: center;
-    
+
   }
