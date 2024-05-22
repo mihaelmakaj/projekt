@@ -37,5 +37,9 @@ ul
     background-repeat: no-repeat;
     border: 5px solid;
     border-color: purple;
-    padding: 225px ;
+    padding: 250px ;
+  }
+  h1
+  {
+    font-size: medium;
   }
