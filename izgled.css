@@ -35,13 +35,6 @@ ul
     background-image: url(ts1.jpg);
     background-position-y: top;
     background-repeat: no-repeat;
-  }
-  h1
-  {
-    font-style: italic;
-    font-size: 200px;
-    padding: 100px;
-    text-align: center;
     border: 5px solid;
     border-color: purple;
   }
