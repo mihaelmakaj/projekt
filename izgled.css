@@ -28,12 +28,7 @@ ul
   }
   .active 
   {
-    background-color: #04AA6D;
-  }
-  .slika
-  {
-    background-image: url("ts2.jpg");
-    background-repeat: no-repeat;
+    background-color: #04AA6D; 
   }
   h1
   {
@@ -41,4 +36,6 @@ ul
     font-size: 100px;
     text-align: center;
     padding: 200px;
+    border: 2px;
+    border-color: purple;
   }
