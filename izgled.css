@@ -30,7 +30,7 @@ ul
   {
     background-color: #04AA6D; 
   }
-  .slika
+  head.slika
   {
     background-image: url(ts.jpg);
     background-position-y: top;
@@ -43,7 +43,7 @@ ul
     text-align: center;
     color: black;
   }
-  .pocetna
+  p.pocetna
   {
     font-size: 12px;
     text-align: justify;
