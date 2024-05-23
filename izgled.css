@@ -43,11 +43,10 @@ ul
     text-align: center;
     color: black;
   }
-  .pocetna
+  p.citat
   {
-    font-size: 12px;
-    text-align: justify;
-    background-color: #cc33ff;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 11px;
+    border: 1px solid #000;
+    background-color: #ffffcc;
   }
