@@ -1,18 +1,16 @@
-ul
-{
+ul.2
+  {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
   }
-  
   li.1
   {
     float: left;
     border-right: 1px solid #bbb;
   }
-  
   li.1 a
   {
     display: block;
@@ -21,7 +19,6 @@ ul
     padding: 14px 16px;
     text-decoration: none;
   }
-  
   li.1 a:hover 
   {
     background-color: #111;
