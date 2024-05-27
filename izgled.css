@@ -55,9 +55,14 @@ ul.popis
     float: left;
     color: #9900cc;
   }
-  ol.pjesme a:visited
+  ol li a, ol li a:visited
   {
-    text-decoration: none
+      display:block;
+      text-decoration: none;
+      margin: 1px;
+      padding: 2px 0px 2px 5px;
+      width: 100px;
+      border-left: 6px;
   }
   body
   {
