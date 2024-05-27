@@ -33,6 +33,7 @@ ul.popis
     background-position-y: top;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    padding: 100px;
   }
   h1
   {
