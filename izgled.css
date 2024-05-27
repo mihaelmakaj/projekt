@@ -63,10 +63,10 @@ ul.popis
   {
     background-color: #ffe6ff;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
   }
   .lyrics
   {
     color: black;
-    font-size: 20px;
     margin-left: 5px;
   }
