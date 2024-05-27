@@ -53,7 +53,12 @@ ul
     color: black;
     font-family: 'Times New Roman', Times, serif;
   }
+  .albumi
+  {
+    float: left;
+    color: #9900cc;
+  }
   .pjesme
   {
-    
+    float: left;
   }
