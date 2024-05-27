@@ -49,6 +49,7 @@ ul.popis
     color: black;
     margin-left: 5px;
     margin-right: 5px;
+    font-size: 20px;
   }
   .albumi
   {
@@ -63,10 +64,9 @@ ul.popis
   {
     background-color: #ffe6ff;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
   }
   .lyrics
   {
     color: black;
-    margin-left: 5px;
+    font-size: 15px;
   }
