@@ -57,8 +57,6 @@ ul.popis
   }
   ol li a, ol li a:visited
   {
-    text-decoration: none;
-    margin: 1px;
     color: #9900cc;
   }
   body
