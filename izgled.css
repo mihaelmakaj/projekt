@@ -44,7 +44,6 @@ ul.popis
   }
   p.pocetna
   {
-    font-size: 20px;
     text-align: justify;
     background-color: #cc33ff;
     color: black;
@@ -68,5 +67,6 @@ ul.popis
   .lyrics
   {
     color: #9900cc;
+    font-size: 20px;
     margin-left: 5px;
   }
