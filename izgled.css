@@ -59,3 +59,7 @@ ul.popis
   {
     float: left;
   }
+  body
+  {
+    margin: auto;
+  }
