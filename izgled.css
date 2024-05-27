@@ -1,4 +1,4 @@
-ul.2
+ul.popis
   {
     list-style-type: none;
     margin: 0;
@@ -6,12 +6,12 @@ ul.2
     overflow: hidden;
     background-color: #333;
   }
-  li.1
+  li.traka
   {
     float: left;
     border-right: 1px solid #bbb;
   }
-  li.1 a
+  li.traka a
   {
     display: block;
     color: white;
@@ -19,7 +19,7 @@ ul.2
     padding: 14px 16px;
     text-decoration: none;
   }
-  li.1 a:hover 
+  li.traka a:hover 
   {
     background-color: #111;
   }
