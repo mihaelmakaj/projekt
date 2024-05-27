@@ -69,4 +69,10 @@ ul.popis
   {
     color: black;
     font-size: 15px;
+    text-align: center;
+  }
+  h3
+  {
+    text-align: center;
+    font-style: italic;
   }
