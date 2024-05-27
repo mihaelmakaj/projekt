@@ -55,6 +55,10 @@ ul.popis
     float: left;
     color: #9900cc;
   }
+  ol.pjesme a:visited
+  {
+    text-decoration: none
+  }
   body
   {
     background-color: #ffe6ff;
