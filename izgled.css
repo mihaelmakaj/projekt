@@ -7,13 +7,13 @@ ul
     background-color: #333;
   }
   
-  li
+  .li1
   {
     float: left;
     border-right: 1px solid #bbb;
   }
   
-  li a 
+  li.1 a
   {
     display: block;
     color: white;
@@ -22,7 +22,7 @@ ul
     text-decoration: none;
   }
   
-  li a:hover 
+  li.1 a:hover 
   {
     background-color: #111;
   }
