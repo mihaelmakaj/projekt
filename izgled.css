@@ -48,6 +48,8 @@ ul.popis
     text-align: justify;
     background-color: #cc33ff;
     color: black;
+    margin-left: 5px;
+    margin-right: 5px;
     font-family: 'Times New Roman', Times, serif;
   }
   .albumi
