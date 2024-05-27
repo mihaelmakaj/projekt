@@ -57,12 +57,12 @@ ul.popis
   }
   ol li a, ol li a:visited
   {
-      display:block;
-      text-decoration: none;
-      margin: 1px;
-      padding: 2px 0px 2px 5px;
-      width: 100px;
-      border-left: 6px;
+    display:block;
+    text-decoration: none;
+    margin: 1px;
+    padding: 2px 0px 2px 5px;
+    width: 100px;
+    border-left: 6px;
   }
   body
   {
