@@ -50,7 +50,6 @@ ul.popis
     color: black;
     margin-left: 5px;
     margin-right: 5px;
-    font-family: 'Times New Roman', Times, serif;
   }
   .albumi
   {
@@ -64,4 +63,10 @@ ul.popis
   body
   {
     background-color: #ffe6ff;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .lyrics
+  {
+    color: #9900cc;
+    margin-left: 5px;
   }
