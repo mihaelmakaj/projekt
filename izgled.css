@@ -70,11 +70,14 @@ ul.popis
     color: black;
     font-size: 15px;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
   }
   h3
   {
     text-align: center;
     font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
   }
   .tablica 
   {
@@ -82,6 +85,7 @@ ul.popis
     margin-left : auto;
     width : 50%;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
   }
   th, td 
   {
@@ -91,5 +95,6 @@ ul.popis
   {
     text-align: center;
     color: #9900cc;
+    font-family: 'Times New Roman', Times, serif;
   }
   
