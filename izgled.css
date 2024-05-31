@@ -64,6 +64,7 @@ ul.popis
   {
     background-color: #ffe6ff;
     font-family: 'Times New Roman', Times, serif;
+    place-content: center;
   }
   .lyrics
   {
