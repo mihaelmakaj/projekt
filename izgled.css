@@ -84,6 +84,11 @@ ul.popis
   }
   th, td 
   {
-    border-bottom: 1px solid #e636e6;
+    border-bottom: 1px solid black;
+  }
+  .koncerti
+  {
+    text-align: center;
+    color: #cc00cc;
   }
   
