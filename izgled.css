@@ -76,3 +76,9 @@ ul.popis
     text-align: center;
     font-style: italic;
   }
+  .tablica 
+  {
+    margin-left : auto;
+    margin-right : auto;
+    width : 50%;
+  }
