@@ -35,6 +35,24 @@ ul.popis
     background-repeat: no-repeat;
     padding: 150px;
   }
+  .slikacss
+  {
+    border:0;
+    width:88px;
+    height:31px;
+    background-position-y: bottom;
+    background-position-x: left;
+    background-repeat: no-repeat;
+  }
+  .slikahtml
+  {
+    border:0;
+    width:88px;
+    height:31px;
+    background-position-y: bottom;
+    background-position-x: right;
+    background-repeat: no-repeat;
+  }
   h1
   {
     font-size: 100px;
