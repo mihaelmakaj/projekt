@@ -54,11 +54,6 @@ ul.popis
   .albumi
   {
     float: left;
-    color: #9900cc;
-  }
-  .album
-  {
-    float: left;
     color: black;
   }
   ol li a, ol li a:visited
