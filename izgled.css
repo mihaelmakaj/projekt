@@ -83,7 +83,7 @@ ul.popis
     width : 50%;
     text-align: center;
   }
-  th, td 
+  th.tab, td 
   {
     border-bottom: 1px solid black;
   }
