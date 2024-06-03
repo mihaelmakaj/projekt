@@ -76,8 +76,12 @@ ul.popis
     float: left;
     color: #9900cc;
   }
-  body
+  body 
   {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
     background-color: #ffe6ff;
     font-family: 'Times New Roman', Times, serif;
   }
