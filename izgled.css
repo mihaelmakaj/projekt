@@ -41,7 +41,6 @@ ul.popis
     width:88px;
     height:31px;
     background-position-y: bottom;
-    background-position-x: left;
     background-repeat: no-repeat;
   }
   .slikahtml
@@ -50,7 +49,6 @@ ul.popis
     width:88px;
     height:31px;
     background-position-y: bottom;
-    background-position-x: right;
     background-repeat: no-repeat;
   }
   h1
