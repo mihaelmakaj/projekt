@@ -67,6 +67,10 @@ ul.popis
     margin-right: 5px;
     font-size: 20px;
   }
+  ol li a, ol li a:visited
+  {
+  color:#9900cc;
+  }
   .albumi
   {
     float: left;
