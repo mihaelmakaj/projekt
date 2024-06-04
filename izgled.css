@@ -123,7 +123,7 @@ ul.popis
   }
   .gallery 
   {
-    --g: 3px; 
+    --g: 6px; 
     display: grid;
     width: 600px; 
     aspect-ratio: 1;
