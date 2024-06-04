@@ -121,6 +121,8 @@ ul.popis
     aspect-ratio: 1;
     grid: auto-flow 1fr/repeat(3,1fr);
     gap: var(--g);
+    margin-left: auto;
+    margin-right: auto;
   }
   .gallery img {
     width: 100%;
