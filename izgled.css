@@ -35,6 +35,13 @@ ul.popis
     background-repeat: no-repeat;
     padding: 150px;
   }
+  .slikats
+  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 150px;
+  }
   .slikacss
   {
     border:0;
