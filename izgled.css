@@ -125,7 +125,7 @@ ul.popis
   {
     --g: 6px; 
     display: grid;
-    width: 550px; 
+    width: 600px; 
     aspect-ratio: 1;
     grid: auto-flow 1fr/repeat(3,1fr);
     gap: var(--g);
